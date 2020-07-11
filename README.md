@@ -34,6 +34,11 @@ ssh-agent bash
 ssh-add ~/.ssh/id_rsa
 ````
 
+
+
+
 ## 2、git安装及连接github
+
+链接上了
 
 
